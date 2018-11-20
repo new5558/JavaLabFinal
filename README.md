@@ -14,6 +14,7 @@ If position_left is equal to position_right, this means that the user-input valu
 StackOverFlow Error throwed when position_right - pos_left == 1 because recursive call position_center == position_left --> recursive call the same method
 
 ### My modification
+using this code, StackOverFlow Error is gone
 ```java
 if(value == currentValue) return pos_center;
 if(pos_right - pos_left == 1) return -1; // according to the instructions, this line should be gone
