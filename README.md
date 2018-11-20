@@ -19,7 +19,7 @@ if(value == currentValue) return pos_center; // already has this line before mod
 if(pos_right - pos_left == 1) return -1; // according to the instructions, this line should be gone
 ```
 
-another solution that works too(but not adhere to the instrcutions):
+another solution that works too(but still not adhere to the instrcutions):
 https://www.geeksforgeeks.org/binary-search
 ## Lab 6 (class Person.java)
 ### Instruction from PDF
