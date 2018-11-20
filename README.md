@@ -16,7 +16,7 @@ StackOverFlow Error throwed when position_right - pos_left == 1 because recursiv
 ### My modification
 using this code, StackOverFlow Error is gone
 ```java
-if(value == currentValue) return pos_center;
+if(value == currentValue) return pos_center; // already has this line before modification
 if(pos_right - pos_left == 1) return -1; // according to the instructions, this line should be gone
 ```
 ## Lab 6
