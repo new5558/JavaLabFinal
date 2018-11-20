@@ -18,6 +18,9 @@ by adding this code, StackOverFlow Error is gone
 if(value == currentValue) return pos_center; // already has this line before modification
 if(pos_right - pos_left == 1) return -1; // according to the instructions, this line should be gone
 ```
+
+another solution that works too(but not adhered to the instrcutions):
+https://www.geeksforgeeks.org/binary-search
 ## Lab 6
 ### Instruction from PDF
 
