@@ -1,3 +1,6 @@
 # Working......
 
-lab 4 and 6 has not already fully adhered with the instruction.
+lab 4 and lab 6' code has not fully adhered with the instruction.
+but the output is correct.
+
+need code reviewer.
