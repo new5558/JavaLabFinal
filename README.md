@@ -5,7 +5,7 @@ lab 4's and lab 6's code has not 100% adhered to the instruction (I added some m
 need someone to review the code.  
 No PDF given due to copyright.
 
-## Lab 4
+## Lab 4 (Binary Search + Recursive)
 ### Instruction from PDF
 If position_left is equal to position_right, this means that the user-input value cannot be found in the array, so the method should return -1  
   
@@ -21,7 +21,7 @@ if(pos_right - pos_left == 1) return -1; // according to the instructions, this 
 
 another solution that works too(but not adhere to the instrcutions):
 https://www.geeksforgeeks.org/binary-search
-## Lab 6
+## Lab 6 (class Person.java)
 ### Instruction from PDF
 
 ![alt text](https://raw.githubusercontent.com/new5558/javaLabFinal/master/image.PNG)
