@@ -1,6 +1,6 @@
 # Working......
 ## Current Problems
-lab 4's and code has not 100% adhered to the instruction (I added some modifications make the input correct?).  
+lab 4's code has not 100% adhered to the instruction (I added some modifications make the input correct?).  
 need someone to review the code.
 No PDF given due to copyright.
 
